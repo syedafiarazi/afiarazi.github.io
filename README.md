@@ -1,2 +1,2 @@
-# afiarazi.github.io
+# syedafiarazi.github.io
 Portfolio
